@@ -1,7 +1,7 @@
 # twitter-hashtag-generator
 Generates hashtag recommendations for twitter posts
 
-# Working with Google Collab Notebooks with Git Repo
+## Working with Google Collab Notebooks with Git Repo
 1. Create or modify notebooks in a local IDE (e.g. vscode). Please note that Google Collab notebooks are read/run only (you cannot save your changes there), and all modifications need to be made locally. However, you can save a copy of the notebook with modification on Google collab, and copy & paste it back to local.
 For more details, please refer to: https://saturncloud.io/blog/how-can-i-run-notebooks-of-a-github-project-in-google-colab/.
 Other solutions:
