@@ -1,4 +1,4 @@
-# twitter-hashtag-generator
+# llm-playground
 Generates hashtag recommendations for twitter posts
 
 ## Working with Google Collab Notebooks with Git Repo
